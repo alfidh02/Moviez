@@ -13,12 +13,10 @@ A simple movie application that implements Clean Architecture, Koin, Coroutine F
 <br>
 
 ## Features :
-- Display latest COVID-19 data (confirmed, recovered, deaths) from all region in Indonesia
-- Search specific region data
-- Radial Bar Chart to show recovery rate
-- XY Chart to show more info from each region
-- Top region affected by COVID-19
-
+- Display top rated movies
+- Add favorite movie
+- Display favorite movies in separate view
+- Support offline network condition
 
 ## Acknowledgements
 
